@@ -7,9 +7,9 @@
 
 ### 🚀 About Me
 
-- 💡 Passionate about building smart, practical AI solutions
-- 📊 Skilled in Power BI, Python, and automation tools
-- 🤖 Specialize in AI chatbots, automation, dashboards, and ML
+- 💡 Passionate about building smart, practical AI solutions  
+- 📊 Skilled in Power BI, Python, and automation tools  
+- 🤖 Specialize in AI chatbots, automation, dashboards, and ML  
 - 💼 Currently interning at **Luminar Technohub**, previously at **Solestone AI** and **Luminar Technolab**
 
 ---

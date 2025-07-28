@@ -16,11 +16,15 @@
 
 ### 🛠️ Tools & Technologies I Use
 
+### 🛠️ Tools & Technologies I Use
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
   <img src="https://img.icons8.com/color/96/power-bi.png" width="40" alt="Power BI" />
-  <img src="./assets/zapier-logo.png" width="40" alt="Zapier" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Make_logo.svg" width="60" alt="Make.com" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zapier/zapier-original.svg" width="40" alt="Zapier" />
+  <img src="https://cdn.worldvectorlogo.com/logos/make-com.svg" width="60" alt="Make.com" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Airtable_Logo.svg" width="40" alt="Airtable" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="60" alt="OpenCV" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask" />
   <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" width="40" alt="TensorFlow" />
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.svg" width="80" alt="Hugging Face" />
@@ -28,6 +32,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS3" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
 </p>
+
 
 ---
 

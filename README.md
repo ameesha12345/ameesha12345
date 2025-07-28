@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/ameesha12345/ameesha12345/assets/banner.png" alt="Ameesha Lal - Banner" width="100%" />
-</p>
 
 # 👋 Hi, I'm Ameesha Lal!
 

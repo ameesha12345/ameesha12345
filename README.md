@@ -37,15 +37,15 @@
 
 #### 🖐 Gesture-Controlled Whiteboard  
 Draw and erase using hand gestures!  
-<img src="https://user-images.githubusercontent.com/59678435/202735722-fdaea400-beb9-4a38-ae03-808f3e4726a1.gif" width="500"/>
+
 
 #### 🔤 Malayalam to English Translator  
 Fine-tuned Hugging Face model on the Tatoeba dataset.  
-<img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/transformers_doc.png" width="500"/>
+
 
 #### 🌿 Plant Disease Prediction Chatbot  
 Upload plant images → detect disease → get remedies.  
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*7rXDN7Fcj_V1eGo1hbb_lw.png" width="500"/>
+
 
 ---
 

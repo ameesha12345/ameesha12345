@@ -21,9 +21,6 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
   <img src="https://img.icons8.com/color/96/power-bi.png" width="40" alt="Power BI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zapier/zapier-original.svg" width="40" alt="Zapier" />
-  <img src="https://cdn.worldvectorlogo.com/logos/make-com.svg" width="60" alt="Make.com" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Airtable_Logo.svg" width="40" alt="Airtable" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="60" alt="OpenCV" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask" />
   <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" width="40" alt="TensorFlow" />

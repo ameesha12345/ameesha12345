@@ -8,9 +8,9 @@
 ### 🚀 About Me
 
 - 💡 Passionate about building smart, practical AI solutions
-- 📊 Skilled in Power BI, Python, and automation platforms
-- 🤖 Creating chatbots, ML models, and data dashboards
-- 💼 Currently at **Luminar Technohub**, previously at **Solestone AI** and **Luminar Technolab**
+- 📊 Skilled in Power BI, Python, and automation tools
+- 🤖 Specialize in AI chatbots, automation, dashboards, and ML
+- 💼 Currently interning at **Luminar Technohub**, previously at **Solestone AI** and **Luminar Technolab**
 
 ---
 
@@ -18,16 +18,15 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" alt="MySQL" />
   <img src="https://img.icons8.com/color/96/power-bi.png" width="40" alt="Power BI" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="./assets/zapier-logo.png" width="40" alt="Zapier" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Make_logo.svg" width="60" alt="Make.com" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" width="40" alt="TensorFlow" />
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.svg" width="80" alt="Hugging Face" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS3" />
-  <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" width="40" alt="TensorFlow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask" />
-  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.svg" width="80" alt="Hugging Face" />
-  <img src="https://img.icons8.com/fluency/48/zapier.png" width="40" alt="Zapier" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Make_logo.svg" width="60" alt="Make.com" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
 </p>
 
 ---

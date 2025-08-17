@@ -35,6 +35,9 @@
 
 ### 📌 Projects Showcase
 
+#### 📍 AI-powered Resume Shortlisting System (n8n, Google Drive, Google Sheets, Gemini API)
+Developed an AI-powered resume shortlisting system using n8n, Google Sheets, Drive, and Gemini API to automate scoring and email notifications.
+
 #### 🖐 Gesture-Controlled Whiteboard  
 Draw and erase using hand gestures!  
 
